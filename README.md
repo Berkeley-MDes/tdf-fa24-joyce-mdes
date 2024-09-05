@@ -15,7 +15,7 @@ week 2, etc...
 
 This week, I designed a cool phone stand. 
 
-<img width="200" alt="Cool Phone Stand made of rocks" src="assets/IMG_9814.HEIC">
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/IMG_9814.jpg">
 
 ---
 
