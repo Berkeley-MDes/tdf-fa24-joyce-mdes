@@ -21,7 +21,11 @@ Toast exercise in Design Framework class.
 
 <img width="600" alt="Cool Phone Stand" src="assets/IMG_9807.jpg">
 
-This week, I designed a phone stand. Initially, I hoped its head could rotate, but it took me a couple of times to deal with the mechanism. Then, I give up.
+This week, I designed a phone stand. 
+
+<img width="600" alt="Cool Phone Stand" src="assets/IMG_9811.jpg">
+
+Initially, I hoped its head could rotate, but it took me a couple of times to deal with the mechanism. Then, I give up.
 
 <img width="600" alt="Cool Phone Stand" src="assets/IMG_9814.jpg">
 
