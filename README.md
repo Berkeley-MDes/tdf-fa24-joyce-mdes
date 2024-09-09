@@ -47,6 +47,13 @@ Sketches, Drawings, and Diagrams
 this could include flowcharts, design files, whiteboarding, storyboards, etc
 pencil & paper sketches, drawings, post-its, etc (photographed or scanned and uploaded)
 
+
+# Week 2: #
+## Week of 09/12/2024
+
+<img width="600" alt="Cool Phone Stand" src="assets/0909 Rhino Screenshot.png">
+
+
 ---
 
 ## Quick Links, compiled here for your convenience: ##
