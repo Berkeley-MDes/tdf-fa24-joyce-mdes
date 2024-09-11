@@ -6,10 +6,9 @@ Welcome to this new GitHub repository!
 # Outline
 [week 1](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#week-1)
 
-[week 2](README.md#week-1-example-report-1)
+[week 2](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#week-2)
 
 
-week 2, etc...
 
 ---
 
