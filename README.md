@@ -3,7 +3,7 @@ Industrial Designer x UX Designer
 
 Welcome to this new GitHub repository!
 
-# Outline
+# Weekly report
 [week 1](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#week-1)
 
 [week 2](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#week-2)
@@ -12,8 +12,8 @@ Welcome to this new GitHub repository!
 
 ---
 
-# Week 1: #
-## Week of 09/05/2024
+# Week 1: 0829-0905# 
+[Back to content](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#outline)
 
 Portrait in Studio Foundation class.
 
@@ -50,10 +50,17 @@ this could include flowcharts, design files, whiteboarding, storyboards, etc
 pencil & paper sketches, drawings, post-its, etc (photographed or scanned and uploaded)
 
 
-# Week 2: #
-## Week of 09/12/2024
+# Week 2: 0906-0912#
 
 <img width="600" alt="Cool Phone Stand" src="assets/0909 Rhino Screenshot.png">
+
+
+# Week 3: 0913-0919#
+
+
+# Week 4: 0920-0926#
+
+
 
 
 ---
