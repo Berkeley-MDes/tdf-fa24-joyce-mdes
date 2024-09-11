@@ -4,16 +4,16 @@ Industrial Designer x UX Designer
 Welcome to this new GitHub repository!
 
 # Weekly report contents
-[week 1](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#week-1)
+[week 1](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#week-1-0829-0905)
 
-[week 2](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#week-2)
+[week 2](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#week-2-0906-0912)
 
 
 
 ---
 
 # Week 1: 0829-0905 #
-[Back to contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#weekly-report)
+[Back to contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#weekly-report-contents)
 
 Portrait in Studio Foundation class.
 
@@ -51,19 +51,20 @@ pencil & paper sketches, drawings, post-its, etc (photographed or scanned and up
 
 
 # Week 2: 0906-0912 #
-[Back to contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#weekly-report)
+[Back to contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#weekly-report-contents)
+
 
 
 <img width="600" alt="Cool Phone Stand" src="assets/0909 Rhino Screenshot.png">
 
 
 # Week 3: 0913-0919 #
-[Back to contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#weekly-report)
+[Back to contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#weekly-report-contents)
 
 
 
 # Week 4: 0920-0926 #
-[Back to contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#weekly-report)
+[Back to contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#weekly-report-contents)
 
 
 
