@@ -1,10 +1,13 @@
 # Hi, I'm Joyce!🙌
-Industrial Designer x UX Designer x Project Management
+Industrial Designer x UX Designer
 
-Welcome to this new GitHub repository! Please feel free to leave comments!
+Welcome to this new GitHub repository!
 
 # Outline
 [week 1](README.md#week-1-example-report-1)
+
+[week 2](README.md#week-1-example-report-1)
+
 
 week 2, etc...
 
