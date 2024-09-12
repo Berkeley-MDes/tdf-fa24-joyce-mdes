@@ -41,7 +41,9 @@ Regarding the design process, I initially aimed for a rotating support for the p
 <span id="hashtag"> **#Speculations** </span>  
 We now need an **environment equipped with a variety of tools and materials** (like the Makerspace) to design numerous products or mechanisms. In the future, if we have a product (whether physical or digital) that allows us to **develop ideas within a virtual 3D environment** and includes simulated materials, we would be able to iterate quickly and create designs that are practical and usable.
 
-[Back to contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#weekly-report-contents)  
+[Back to table of contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#weekly-reports-table-of-contents)  
+
+---
 
 # Week 2: 0906-0912 #
 
@@ -74,21 +76,25 @@ During this process, I wondered why it was necessary to use additional software 
 Additionally, if a 3D projector were integrated into the 3D printer, it could allow us to preview the product's size directly on the build plate.
 
 
-[Back to contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#weekly-report-contents)  
+[Back to table of contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#weekly-reports-table-of-contents)  
+
+---
 
 # Week 3: 0913-0919 #
 
 <span id="hashtag"> **#Speculations** </span>  
 
 
-[Back to contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#weekly-report-contents)  
+[Back to table of contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#weekly-reports-table-of-contents)  
+
+---
 
 # Week 4: 0920-0926 #
 
 <span id="hashtag"> **#Speculations** </span>  
 
 
-[Back to contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#weekly-report-contents)  
+[Back to table of contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#weekly-reports-table-of-contents)  
 
 
 
