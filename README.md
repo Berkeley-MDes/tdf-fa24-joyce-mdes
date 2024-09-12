@@ -63,19 +63,29 @@ This picture shows that I adjusted the parameters from the file.
 
 <img width="600" alt="Rhino grasshopper tutorials" src="assets/0912 Rhino Screenshot.png">
 
-And then, in the Monday class, I joined the group of teaching how to use Prusa mk3s+ 3D printers.
+And then, in the Monday class, I joined the group teaching how to use Prusa mk3s+ 3D printers.
 
 <img width="600" alt="Rhino grasshopper tutorials" src="assets/0912 3D printing.png">
+
+<span id="hashtag"> **#Speculations** </span>  
+
+During this process, I wondered why it was necessary to use additional software to adjust settings before printing with a 3D printer. I imagined that, after exporting the STL file, we could directly upload it to the 3D printer, which would automatically adjust each parameter to ensure a successful print.
+
+Additionally, if a 3D projector were integrated into the 3D printer, it could allow us to preview the product's size directly on the build plate.
+
 
 [Back to contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#weekly-report-contents)  
 
 # Week 3: 0913-0919 #
+
+<span id="hashtag"> **#Speculations** </span>  
 
 
 [Back to contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#weekly-report-contents)  
 
 # Week 4: 0920-0926 #
 
+<span id="hashtag"> **#Speculations** </span>  
 
 
 [Back to contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#weekly-report-contents)  
