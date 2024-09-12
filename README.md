@@ -57,6 +57,8 @@ pencil & paper sketches, drawings, post-its, etc (photographed or scanned and up
 
 <img width="600" alt="Cool Phone Stand" src="assets/0909 Rhino Screenshot.png">
 
+<img width="600" alt="Cool Phone Stand" src="assets/0912 Rhino Screenshot.png">
+
 
 # Week 3: 0913-0919 #
 [Back to contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#weekly-report-contents)
@@ -65,7 +67,6 @@ pencil & paper sketches, drawings, post-its, etc (photographed or scanned and up
 
 # Week 4: 0920-0926 #
 [Back to contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#weekly-report-contents)
-
 
 
 
