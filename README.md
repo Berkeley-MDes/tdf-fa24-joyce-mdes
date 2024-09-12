@@ -1,11 +1,9 @@
 # Hi, I'm Joyce!🙌
-Industrial Designer x UX Designer
-
+Industrial Designer x UX Designer  
 Welcome to this new GitHub repository!
 
 # Weekly report contents
-[week 1](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#week-1-0829-0905)
-
+[week 1](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#week-1-0829-0905)  
 [week 2](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#week-2-0906-0912)
 
 
@@ -13,45 +11,39 @@ Welcome to this new GitHub repository!
 ---
 
 # Week 1: 0829-0905 #
-[Back to contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#weekly-report-contents)
 
-Portrait in Studio Foundation class.
+### Portrait exercise in the Studio Foundation class
+Drawing portraits of classmates is a really fun activity! It’s a great way to quickly break the ice and get to know each other better through art (plus, you get to observe them closely—haha!).  
 
-<img width="600" alt="Cool Phone Stand" src="assets/IMG_9806.jpg">
+The image below shows a portrait of me drawn by a classmate. **What a wonderful drawing!**
 
-Toast exercise in Design Framework class.
+<img width="600" alt="Cool Phone Stand" src="assets/IMG_9806.jpg"> 
+
+### Drawing Toast in the Design Framework class
+During the activity, I noticed that each person had a different understanding of the requirements. Making toast may seem simple, but everyone had their own method—one person even drew 22 steps to make toast! Despite this, all of our sketches included steps and arrows, just as highlighted in the video. **Sorting out the process is the first step to understanding the whole of a complex problem.** After reorganizing, we ended up with a simplified process that clearly highlighted the underlying issues.
+
+[TED talk: Got a wicked problem? First, tell me how you make toast](https://www.ted.com/talks/tom_wujec_got_a_wicked_problem_first_tell_me_how_you_make_toast?subtitle=en)
 
 <img width="600" alt="Cool Phone Stand" src="assets/IMG_9807.jpg">
 
-This week, I designed a phone stand. 
+### Laser-cutting exercise for the Technology Design Foundations class
+This week, I completed the Jacobs **online laser cutter training**. Although I had used a laser cutter frequently before, I still had trouble getting familiar with the new system.  
 
 <img width="600" alt="Cool Phone Stand" src="assets/IMG_9811.jpg">
 
-Initially, I hoped its head could rotate, but it took me a couple of times to deal with the mechanism. Then, I give up.
+For this assignment, I designed a phone stand. However, since I didn't have the exact thickness of the wood boards, my design failed during assembly. As you can see, there is a part that didn’t fit into the holes. Next time, I will measure the thickness of the material before doing the design.
+
+Regarding the design process, I initially aimed for a rotating support for the phone stand, which required several attempts to test different structures using Rhino. I also researched various laser-cutting products online to gather ideas about the structure. Despite multiple failures, I concluded that testing the design with actual materials would be most effective. Consequently, I created the first version, laser-cut it, and used this prototype to explore different structures for the rotating support.
 
 <img width="600" alt="Cool Phone Stand" src="assets/IMG_9814.jpg">
 
+[Back to contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#weekly-report-contents)  
 
-
-Reflections
-in complete sentences or paragraphs, and perhaps images or videos.
-reflections on what you learned and how you learned it
-an assessment of the state of your work
-Speculations
-in complete sentences or paragraphs, and perhaps images or videos.
-speculation on future direction for the tools [so much is changing very quickly right now, where do you think this is going? Why do you think this?]
-speculation on future direction for the work
-bonus: thoughtful descriptions of something interesting and relevant you heard about in the news or industry publications. include text, an image, a link, and a reference that you can follow up on later and share with your peers.
-Images & Video
-images & video should be unified with your presentation (not just a folder of images)
-images & video should be directly relevant to the project (What does each shot show us?)
-Sketches, Drawings, and Diagrams
-this could include flowcharts, design files, whiteboarding, storyboards, etc
-pencil & paper sketches, drawings, post-its, etc (photographed or scanned and uploaded)
-
+<span id="hashtag"> **#Speculations** </span>  
+We now need an **environment equipped with a variety of tools and materials** (like the Makerspace) to design numerous products or mechanisms. In the future, if we have a product (whether physical or digital) that allows us to **develop ideas within a virtual 3D environment** and includes simulated materials, we would be able to iterate quickly and create designs that are practical and usable.
 
 # Week 2: 0906-0912 #
-[Back to contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#weekly-report-contents)
+
 
 
 
@@ -59,14 +51,18 @@ pencil & paper sketches, drawings, post-its, etc (photographed or scanned and up
 
 <img width="600" alt="Cool Phone Stand" src="assets/0912 Rhino Screenshot.png">
 
+[Back to contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#weekly-report-contents)  
 
 # Week 3: 0913-0919 #
-[Back to contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#weekly-report-contents)
 
 
+[Back to contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#weekly-report-contents)  
 
 # Week 4: 0920-0926 #
-[Back to contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#weekly-report-contents)
+
+
+
+[Back to contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#weekly-report-contents)  
 
 
 
