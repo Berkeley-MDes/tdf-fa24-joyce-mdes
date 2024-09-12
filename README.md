@@ -55,11 +55,17 @@ This model is a bottle.
 
 <img width="600" alt="Rhino grasshopper tutorials" src="assets/0912 Rhino Screenshot_.png">
 
-This is an exercise about creating 
+This is an exercise about creating lines between three curves automatically.
 
 <img width="600" alt="Rhino grasshopper tutorials" src="assets/0909 Rhino Screenshot.png">
 
+This picture shows that I adjusted the parameters from the file.  
+
 <img width="600" alt="Rhino grasshopper tutorials" src="assets/0912 Rhino Screenshot.png">
+
+And then, in the Monday class, I joined the group of teaching how to use Prusa mk3s+ 3D printers.
+
+<img width="600" alt="Rhino grasshopper tutorials" src="assets/0912 3D printing.png">
 
 [Back to contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#weekly-report-contents)  
 
