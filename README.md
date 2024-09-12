@@ -2,7 +2,7 @@
 Industrial Designer x UX Designer  
 Welcome to this new GitHub repository!
 
-# Weekly report contents
+# Weekly reports: table of contents
 [week 1](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#week-1-0829-0905)  
 [week 2](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#week-2-0906-0912)
 
