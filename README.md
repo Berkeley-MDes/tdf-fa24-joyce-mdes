@@ -37,19 +37,29 @@ Regarding the design process, I initially aimed for a rotating support for the p
 
 <img width="600" alt="Cool Phone Stand" src="assets/IMG_9814.jpg">
 
-[Back to contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#weekly-report-contents)  
 
 <span id="hashtag"> **#Speculations** </span>  
 We now need an **environment equipped with a variety of tools and materials** (like the Makerspace) to design numerous products or mechanisms. In the future, if we have a product (whether physical or digital) that allows us to **develop ideas within a virtual 3D environment** and includes simulated materials, we would be able to iterate quickly and create designs that are practical and usable.
 
+[Back to contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#weekly-report-contents)  
+
 # Week 2: 0906-0912 #
 
+This week, I visited **BLICK Art Material** to explore tools and interesting materials that can be used in the following classes. 
 
+<img width="600" alt="Cool Phone Stand" src="assets/IMG_9826_.png">
 
+I explored several Rhino grasshopper tutorials this week. I learned how to build 3D models through diagrams and the logic of connection between each block.
 
-<img width="600" alt="Cool Phone Stand" src="assets/0909 Rhino Screenshot.png">
+This model is a bottle.
 
-<img width="600" alt="Cool Phone Stand" src="assets/0912 Rhino Screenshot.png">
+<img width="600" alt="Rhino grasshopper tutorials" src="assets/0912 Rhino Screenshot_.png">
+
+This is an exercise about creating 
+
+<img width="600" alt="Rhino grasshopper tutorials" src="assets/0909 Rhino Screenshot.png">
+
+<img width="600" alt="Rhino grasshopper tutorials" src="assets/0912 Rhino Screenshot.png">
 
 [Back to contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#weekly-report-contents)  
 
