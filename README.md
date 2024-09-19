@@ -112,10 +112,11 @@ Finally, I exported the model as a STEP file and imported it into Solidworks to 
 
 <span id="hashtag"> **#Reflections** </span>  
 
+To learn Grasshopper, I spent a lot of time learning the basic commands. However, I felt that I should also randomly explore the interface to see how much I could accomplish without any prior experience.
 
+<span id="hashtag"> **#Speculations** </span>   
 
-<span id="hashtag"> **#Speculations** </span>  
-
+While creating the 3D model, I kept thinking about how great it would be to control the design with sentences. For example, 'I want to create a 30cm x 20cm box, then subtract a 10cm x 5cm box from the front.' This would eliminate the need to learn the software, reducing the learning curve.
 
 [Back to table of contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#weekly-reports-table-of-contents)  
 
