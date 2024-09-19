@@ -4,7 +4,8 @@ Welcome to this new GitHub repository!
 
 # Weekly Reports: table of contents
 [week 1: 0829-0905](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-1-0829-0905)  
-[week 2: 0906-0912](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-2-0906-0912)
+[week 2: 0906-0912](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-2-0906-0912)  
+[week 3: 0913-0919](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-3-0913-0919)
 
 
 
@@ -81,6 +82,22 @@ Additionally, if a 3D projector were integrated into the 3D printer, it could al
 ---
 
 # Week 3: 0913-0919 #
+
+### Keep working on Project 1
+
+Base on the exercise in last week, I
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-09-19 at 12.06.25.png">
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-09-19 at 12.05.58.png">
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-09-19 at 12.05.29.png">
+
+
+
+
+<span id="hashtag"> **#Reflections** </span>  
+
+
 
 <span id="hashtag"> **#Speculations** </span>  
 
