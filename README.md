@@ -85,21 +85,28 @@ Additionally, if a 3D projector were integrated into the 3D printer, it could al
 
 ### Keep working on Project 1
 
-I decided to design an iPad stand for the Project 1 assignment.  
-Then, I did some research on Pinterest to collect some ideas. Next, I measured the size and sketched an iPad stand. 
+For my Project 1 assignment, I decided to design an iPad stand. 
+
+I began by researching ideas on Pinterest, then measured the dimensions and sketched a design for the stand. 
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Untitled_Artwork.jpg">
 
 <img width="600" alt="Rhino grasshopper objects" src="assets/Untitled_Artwork 2.jpg">
 
-<img width="600" alt="Rhino grasshopper objects" src="assets/Untitled_Artwork 2.jpg">
 
+I started creating a new 3D model using Grasshopper. I began by designing two surfaces for the top and bottom of the stand, then connected them to form a solid object.
 
-Based on the exercise last week, I started to create a 3D model by Grasshopper. In the beginning, I created two surfaces for the top and bottom of the stand. Then, I 
+Next, I created an iPad and subtract it.
+
 <img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-09-19 at 12.06.25.png">
+
+I then used a solid object to subtract the section that would obstruct the iPad screen.
 
 <img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-09-19 at 12.05.58.png">
 
-<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-09-19 at 12.05.29.png">
+Finally, I exported the model as a STEP file and imported it into Solidworks to make slight adjustments to its appearance. If I had more time, I would learn how to use Rhino and Grasshopper to refine the design.
 
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-09-19 at 12.05.29.png">
 
 
 
