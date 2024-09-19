@@ -85,7 +85,15 @@ Additionally, if a 3D projector were integrated into the 3D printer, it could al
 
 ### Keep working on Project 1
 
-Base on the exercise in last week, I
+I decided to design an iPad stand for the Project 1 assignment.  
+Then, I did some research on Pinterest to collect some ideas. Next, I measured the size and sketched an iPad stand. 
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Untitled_Artwork 2.jpg">
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Untitled_Artwork 2.jpg">
+
+
+Based on the exercise last week, I started to create a 3D model by Grasshopper. In the beginning, I created two surfaces for the top and bottom of the stand. Then, I 
 <img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-09-19 at 12.06.25.png">
 
 <img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-09-19 at 12.05.58.png">
