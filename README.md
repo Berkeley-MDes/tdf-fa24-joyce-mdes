@@ -137,10 +137,9 @@ we also watched the videos in the Project 1 playlist together.
 
 <img width="600" alt="Rhino grasshopper objects" src="assets/report.png">
 
-After the TDF Monday class, I started to pay attention to personal devices in my daily life.  
-Then, I created an ecosystem map for personal devices.  
-To be honest, before doing this assignment, I never thought about how these devices connect, or what technology is involved.  
-The connections between these devices are unconscious for me.  
+After the TDF Monday class, I started to pay attention to personal devices in my daily life. Then, I created an ecosystem map for personal devices.  
+
+To be honest, before doing this assignment, I never thought about how these devices connect, or what technology is involved. The connections between these devices are unconscious for me.  
 
 <img width="600" alt="Rhino grasshopper objects" src="assets/ecosystem map_.png">
 
