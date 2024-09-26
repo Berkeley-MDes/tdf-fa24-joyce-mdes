@@ -5,7 +5,8 @@ Welcome to this new GitHub repository!
 # Weekly Reports: table of contents
 [week 1: 0829-0905](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-1-0829-0905)  
 [week 2: 0906-0912](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-2-0906-0912)  
-[week 3: 0913-0919](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-3-0913-0919)
+[week 3: 0913-0919](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-3-0913-0919)  
+[week 4: 0920-0926](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main#week-4-0920-0926)
 
 
 
@@ -123,6 +124,27 @@ While creating the 3D model, I kept thinking about how great it would be to cont
 ---
 
 # Week 4: 0920-0926 #
+
+This weekend, I spent approximately a whole afternoon completing the Project 1 Report.  
+It was quite interesting to see feedback from other classmates.
+The feedback was super helpful and I was inspired. 
+While doing the report, several ideas for improvement came to my mind, so I wrote them in the report.
+
+I did this assignment with a classmate, and we discussed what content should be included in the report.   
+we also watched the videos in the Project 1 playlist together.
+
+[a link to all of the AMAZING Project 1 Videos](https://www.youtube.com/playlist?list=PLLpvMj60-6aElXXOIYAc9WgsSKhzly2VR)  
+
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/report.png">
+
+
+
+
+
+<span id="hashtag"> **#Reflections** </span>  
+
+To learn Grasshopper, I spent a lot of time learning the basic commands. However, I felt that I should also randomly explore the interface to see how much I could accomplish without any prior experience.
 
 <span id="hashtag"> **#Speculations** </span>  
 
