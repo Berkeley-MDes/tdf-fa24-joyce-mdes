@@ -135,8 +135,16 @@ we also watched the videos in the Project 1 playlist together.
 
 [a link to all of the AMAZING Project 1 Videos](https://www.youtube.com/playlist?list=PLLpvMj60-6aElXXOIYAc9WgsSKhzly2VR)  
 
-
 <img width="600" alt="Rhino grasshopper objects" src="assets/report.png">
+
+After the TDF Monday class, I started to pay attention to personal devices in my daily life.  
+Then, I created an ecosystem map for personal devices.  
+To be honest, before doing this assignment, I never thought about how these devices connect, or what technology is involved.  
+The connections between these devices are unconscious for me.  
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/ecosystem map_.png">
+
+  
 
 
 
@@ -144,10 +152,12 @@ we also watched the videos in the Project 1 playlist together.
 
 <span id="hashtag"> **#Reflections** </span>  
 
-To learn Grasshopper, I spent a lot of time learning the basic commands. However, I felt that I should also randomly explore the interface to see how much I could accomplish without any prior experience.
+After doing this assignment, I realized that I should learn how connections work between personal devices. Then, I can speculate what kind of devices should be connected to enhance the convenience of daily life.
+
 
 <span id="hashtag"> **#Speculations** </span>  
 
+In our daily lives, there are always some tasks that we perform every day, such as opening the curtains, turning on the lights, and starting the diffuser. If we could preset the on and off times for these devices, we would save a lot of time managing them. I look forward to having this kind of lifestyle in the near future.
 
 [Back to table of contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#weekly-reports-table-of-contents)  
 
