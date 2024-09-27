@@ -167,10 +167,6 @@ In our daily lives, there are always some tasks that we perform every day, such 
 
 
 
-<img width="600" alt="Rhino grasshopper objects" src="assets/report.png">
-
-
-<img width="600" alt="Rhino grasshopper objects" src="assets/ecosystem map_.png">
 
 
 
