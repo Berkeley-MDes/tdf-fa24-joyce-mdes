@@ -161,7 +161,28 @@ In our daily lives, there are always some tasks that we perform every day, such 
 [Back to table of contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#weekly-reports-table-of-contents)  
 
 
+---
 
+# Week 5: 0927-1003 #
+
+
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/report.png">
+
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/ecosystem map_.png">
+
+
+
+<span id="hashtag"> **#Reflections** </span>  
+
+
+
+<span id="hashtag"> **#Speculations** </span>  
+
+
+
+[Back to table of contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#weekly-reports-table-of-contents) 
 
 ---
 
