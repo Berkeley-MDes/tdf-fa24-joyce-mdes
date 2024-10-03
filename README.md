@@ -6,7 +6,8 @@ Welcome to this new GitHub repository!
 [week 1: 0829-0905](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-1-0829-0905)  
 [week 2: 0906-0912](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-2-0906-0912)  
 [week 3: 0913-0919](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-3-0913-0919)  
-[week 4: 0920-0926](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main#week-4-0920-0926)
+[week 4: 0920-0926](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main#week-4-0920-0926)  
+[week 5: 0927-1003](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main#week-4-0920-0926)
 
 
 
@@ -165,9 +166,56 @@ In our daily lives, there are always some tasks that we perform every day, such 
 
 # Week 5: 0927-1003 #
 
+### S08 2024/09/26 w05 Th ###
+
+For this assignment, we needed to modify the pin configuration in the code. As a result, I was able to compile and flash the program successfully and efficiently.
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/04_make_it_blink_test.png">
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/05_make_it_blink_outside_test.png">
 
 
 
+
+
+
+### S09 2024/09/30 w06 M ###
+
+For this assignment, I chose these three tutorials: 
+1. fsr (force sensitive resistor) -> RGB-led color fader
+2. fsr (force sensitive resistor) -> RGB-led color fader
+3. fsr (force sensitive resistor) -> RGB-led color fader
+
+**➔ fsr (force sensitive resistor) -> RGB-led color fader**
+
+I failed to compile this file initially, so I checked each connection and followed the steps carefully. 
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-03 at 00.59.02.png">
+
+After adjusting some connections, I recompiled it. This time, the error was reduced.
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-03 at 01.04.14.png">
+
+I didn't know what to do, so I asked ChatGPT.
+It told me to add two lines of code.
+
+`void setColor(int R, int G, int B);  
+void setTarget(int red, int green, int blue);`
+
+Then, I compiled successfully!
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-03 at 01.15.27.png">
+
+But I failed to flash. 😿  
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-03 at 01.15.52.png">
+
+Then, I found that it was due to the wrong particle platform. 
+I fixed it so it was FLASHED SUCCESSFULLY!
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-03 at 01.17.29.png">
+
+
+
+**➔ fsr (force sensitive resistor) -> RGB-led color fader**
 
 
 <span id="hashtag"> **#Reflections** </span>  
