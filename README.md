@@ -7,7 +7,7 @@ Welcome to this new GitHub repository!
 [week 2: 0906-0912](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-2-0906-0912)  
 [week 3: 0913-0919](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-3-0913-0919)  
 [week 4: 0920-0926](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main#week-4-0920-0926)  
-[week 5: 0927-1003](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main#week-4-0920-0926)
+[week 5: 0927-1003](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#week-5-0927-1003)
 
 
 
@@ -189,6 +189,7 @@ For this assignment, I chose these three tutorials:
 **➔ fsr (force sensitive resistor) -> RGB-led color fader**
 
 I failed to compile this file initially, so I checked each connection and followed the steps carefully. 
+
 <img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-03 at 00.59.02.png">
 
 After adjusting some connections, I recompiled it. This time, the error was reduced.
@@ -198,14 +199,15 @@ After adjusting some connections, I recompiled it. This time, the error was redu
 I didn't know what to do, so I asked ChatGPT.
 It told me to add two lines of code.
 
-`void setColor(int R, int G, int B);  
-void setTarget(int red, int green, int blue);`
+`void setColor(int R, int G, int B);  `  
+`void setTarget(int red, int green, int blue);`
 
 Then, I compiled successfully!
 
 <img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-03 at 01.15.27.png">
 
 But I failed to flash. 😿  
+
 <img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-03 at 01.15.52.png">
 
 Then, I found that it was due to the wrong particle platform. 
