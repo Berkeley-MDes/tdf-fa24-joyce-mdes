@@ -236,9 +236,14 @@ This exercise is quite easy for me.
 
 <span id="hashtag"> **#Reflections** </span>  
 
+One of the key challenges I faced was ensuring the correct configuration of the hardware and code, particularly when it came to handling interrupts and managing timing. Initially, I encountered an issue where the interrupt function wasn’t recognized in the code, which forced me to dive deeper into how the scope of function declarations works in embedded systems. By addressing this, I strengthened my understanding of the importance of code structure and organization. I now feel more confident in my ability to troubleshoot and adapt to unexpected challenges in future projects.
 
 
 <span id="hashtag"> **#Speculations** </span>  
+
+While the current program is tailored to a specific hardware setup (LED and button), there is potential for scaling this to larger systems. The program could be adapted to control more complex output devices, such as motors or servos, and respond to multiple input triggers, expanding its functionality for broader applications in interactive devices or IoT solutions.
+
+Although the current system functions well for its intended purpose, exploring dynamic inputs, debouncing mechanisms, and non-blocking operations could greatly improve performance, robustness, and user experience.
 
 
 
