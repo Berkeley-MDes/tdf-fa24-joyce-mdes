@@ -7,7 +7,7 @@ Welcome to this new GitHub repository!
 [week 2: 0906-0912](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-2-0906-0912)  
 [week 3: 0913-0919](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-3-0913-0919)  
 [week 4: 0920-0926](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main#week-4-0920-0926)  
-[week 5: 0927-1003](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/blob/main/README.md#week-5-0927-1003)
+[week 5: 0927-1003](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-5-0927-1003)
 
 
 
@@ -176,14 +176,11 @@ For this assignment, we needed to modify the pin configuration in the code. As a
 
 
 
-
-
-
 ### S09 2024/09/30 w06 M ###
 
 For this assignment, I chose these three tutorials: 
 1. fsr (force sensitive resistor) -> RGB-led color fader
-2. fsr (force sensitive resistor) -> RGB-led color fader
+2. Button Send on change
 3. fsr (force sensitive resistor) -> RGB-led color fader
 
 **➔ fsr (force sensitive resistor) -> RGB-led color fader**
@@ -215,9 +212,26 @@ I fixed it so it was FLASHED SUCCESSFULLY!
 
 <img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-03 at 01.17.29.png">
 
+[demo video](https://drive.google.com/drive/folders/1aik8pKlGb3Zc-qyxPNk-CxOpG3VctEj5?usp=sharing)  
 
 
-**➔ fsr (force sensitive resistor) -> RGB-led color fader**
+**➔  LED pulse rate**
+
+This time, I adjust few codes and it worked!
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-03 at 02.10.24.png">
+
+[demo video](https://drive.google.com/drive/folders/1aik8pKlGb3Zc-qyxPNk-CxOpG3VctEj5?usp=sharing)  
+
+
+**➔ Button Send on change**
+
+This exercise is quite easy for me.
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-03 at 02.25.35.png">
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-03 at 02.26.00.png">
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-03 at 02.29.16.png">
+
 
 
 <span id="hashtag"> **#Reflections** </span>  
