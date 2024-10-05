@@ -8,7 +8,7 @@ Welcome to this new GitHub repository!
 [week 3: 0913-0919](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-3-0913-0919)  
 [week 4: 0920-0926](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main#week-4-0920-0926)  
 [week 5: 0927-1003](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-5-0927-1003)
-
+[week 5: 1004-1010](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-5-0927-1003)
 
 
 ---
@@ -218,6 +218,7 @@ I fixed it so it was FLASHED SUCCESSFULLY!
 **➔  LED pulse rate**
 
 This time, I adjust few codes and it worked!
+
 <img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-03 at 02.10.24.png">
 
 [demo video](https://drive.google.com/drive/folders/1aik8pKlGb3Zc-qyxPNk-CxOpG3VctEj5?usp=sharing)  
@@ -226,6 +227,7 @@ This time, I adjust few codes and it worked!
 **➔ Button Send on change**
 
 This exercise is quite easy for me.
+
 <img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-03 at 02.25.35.png">
 
 <img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-03 at 02.26.00.png">
@@ -248,6 +250,22 @@ Although the current system functions well for its intended purpose, exploring d
 
 
 [Back to table of contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#weekly-reports-table-of-contents) 
+
+---
+
+# Week 6: 1004-1010 #
+
+### S10 2024/10/03 w06 Th ###
+
+I tried for more than 2 hours on Saturday morning and I'm still stuck at this stage (as shown in the picture).
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-05 at 11.13.56.png">
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-05 at 11.14.04.png">
+
+
+
+
 
 ---
 
