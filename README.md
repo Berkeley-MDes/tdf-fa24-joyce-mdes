@@ -7,8 +7,8 @@ Welcome to this new GitHub repository!
 [week 2: 0906-0912](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-2-0906-0912)  
 [week 3: 0913-0919](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-3-0913-0919)  
 [week 4: 0920-0926](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main#week-4-0920-0926)  
-[week 5: 0927-1003](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-5-0927-1003)
-[week 5: 1004-1010](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-5-0927-1003)
+[week 5: 0927-1003](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-5-0927-1003)   
+[week 6: 1004-1010](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-6-1004-1010)
 
 
 ---
