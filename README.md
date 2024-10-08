@@ -266,7 +266,11 @@ I tried for more than 2 hours on Saturday morning and I'm still stuck at this st
 I flashed successfully during the TDF class on Monday because a classmate helped me with that. The tutorial on the Slack channel is helpful as well!!
 
 <img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-07 at 17.57.57.png">  
-<img width="600" alt="Rhino grasshopper objects" src="assets/IMG_0431.JPG">
+<img width="600" alt="Rhino grasshopper objects" src="assets/IMG_0431.JPG">   
+
+I formed a group on Monday's class.  
+<img width="600" alt="Rhino grasshopper objects" src="assets/IMG_0432.JPG">
+
 
 
 
