@@ -263,9 +263,19 @@ I tried for more than 2 hours on Saturday morning and I'm still stuck at this st
 
 <img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-05 at 11.14.04.png">
 
+I flashed successfully during the TDF class on Monday because a classmate helped me with that. The tutorial on the Slack channel is helpful as well!!
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-07 at 17.57.57.png">  
+<img width="600" alt="Rhino grasshopper objects" src="assets/IMG_0431.JPG">
 
 
 
+<span id="hashtag"> **#Reflections** </span>  
+
+<span id="hashtag"> **#Speculations** </span>  
+
+
+[Back to table of contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#weekly-reports-table-of-contents) 
 
 ---
 
