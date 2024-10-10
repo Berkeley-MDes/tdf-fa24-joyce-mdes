@@ -268,15 +268,31 @@ I flashed successfully during the TDF class on Monday because a classmate helped
 <img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-07 at 17.57.57.png">  
 <img width="600" alt="Rhino grasshopper objects" src="assets/IMG_0431.JPG">   
 
-I formed a group on Monday's class.  
+I formed a group in Monday's class. This was our original ideation about our project.
+
 <img width="600" alt="Rhino grasshopper objects" src="assets/IMG_0432.JPG">
 
+Based on that, we rethink the topic, and we would like to focus on pulse rate detection.
 
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-10 at 12.22.33.png">
+
+After doing research, we created this diagram as our "Draft System Architecture".
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-10 at 12.22.43.png">
+
+Process Diagram
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-10 at 12.23.11.png">
 
 
 <span id="hashtag"> **#Reflections** </span>  
 
-<span id="hashtag"> **#Speculations** </span>  
+This week was particularly challenging due to the volume of assignments, especially with the added pressure of building a proposal for Project 2 with a newly formed team. I had just learned how to compile a Photon 2 code file and was still unsure how to apply this tool in a practical context. Despite that, we had only three days to put together a complete proposal. I realize the proposal might not be perfect and is likely to undergo significant changes in the coming days, which left me feeling frustrated.
+
+<span id="hashtag"> **#Speculations** </span> 
+
+I’m excited about the idea we’re developing for our proposal. If we can successfully combine pulse rate monitoring with productivity, it could have potential applications in both the health and tech industries. By making pulse rate visible, we could adjust our work and break times based on our individual physiological needs. It would be amazing to see this idea come to life!
+
 
 
 [Back to table of contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#weekly-reports-table-of-contents) 
