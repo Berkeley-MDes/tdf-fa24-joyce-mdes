@@ -1,4 +1,5 @@
 # Hi, I'm Joyce!🙌
+Chiayin Yang  
 Industrial Designer x UX Designer  
 Welcome to this new GitHub repository!
 
@@ -296,6 +297,28 @@ I’m excited about the idea we’re developing for our proposal. If we can succ
 
 
 [Back to table of contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#weekly-reports-table-of-contents) 
+
+
+---
+
+# Week 7: 1011-1017 #
+
+This is the second version of our proposal since we didn't know we had to use three inputs and two outputs as the requirement for this project.
+
+
+
+
+
+
+
+
+
+<span id="hashtag"> **#Reflections** </span>  
+
+<span id="hashtag"> **#Speculations** </span>  
+
+
+
 
 ---
 
