@@ -10,7 +10,7 @@ Welcome to this new GitHub repository!
 [week 4: 0920-0926](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main#week-4-0920-0926)  
 [week 5: 0927-1003](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-5-0927-1003)   
 [week 6: 1004-1010](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-6-1004-1010)
-
+[week 7: 1011-1017](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-7-1011-1017)
 
 ---
 
@@ -303,12 +303,31 @@ I’m excited about the idea we’re developing for our proposal. If we can succ
 
 # Week 7: 1011-1017 #
 
+At the class on Thursday, we gained a little feedback on our proposal. These are notes.
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/notes.png">
+
 This is the second version of our proposal since we didn't know we had to use three inputs and two outputs as the requirement for this project.
 
+<img width="600" alt="Rhino grasshopper objects" src="assets/TDF Team CUDies_.jpg">
 
+<img width="600" alt="Rhino grasshopper objects" src="assets/TDF Team CUDies.jpg">
 
+words
 
+<img width="600" alt="Rhino grasshopper objects" src="assets/flash success.png">
 
+words
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/publish success.png">
+
+words
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/suscribe success.png">
+
+However, we encountered a situation.
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/error.png">
 
 
 
