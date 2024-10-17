@@ -303,40 +303,42 @@ I’m excited about the idea we’re developing for our proposal. If we can succ
 
 # Week 7: 1011-1017 #
 
-At the class on Thursday, we gained a little feedback on our proposal. These are notes.
+In Thursday's class, we received some feedback on our proposal, with the key takeaway being the importance of making the system more practical and reasonable.
 
 <img width="600" alt="Rhino grasshopper objects" src="assets/notes.png">
 
-This is the second version of our proposal since we didn't know we had to use three inputs and two outputs as the requirement for this project.
+This is the second version of our proposal, as we initially weren't aware that the project required using three inputs and two outputs. We added a loudness sensor and a motion sensor as inputs for our project.
 
 <img width="600" alt="Rhino grasshopper objects" src="assets/TDF Team CUDies_.jpg">
 
 <img width="600" alt="Rhino grasshopper objects" src="assets/TDF Team CUDies.jpg">
 
-words
+We have developed our first version of the code, which ensures that the system functions properly. It is gratifying to see data consistently appearing in the Serial Monitor.
 
 <img width="600" alt="Rhino grasshopper objects" src="assets/flash success.png">
 
-words
+The next step was to publish data to the console, and as shown in the picture below, we successfully retrieved data from Photon 2.
 
 <img width="600" alt="Rhino grasshopper objects" src="assets/publish success.png">
 
-words
+Next, we attempted to subscribe to the data from the console and transfer it to the second Photon 2.
 
 <img width="600" alt="Rhino grasshopper objects" src="assets/suscribe success.png">
 
-However, we encountered a situation.
+However, we encountered a situation in which we were uncertain about the cause of the error in our code.
 
 <img width="600" alt="Rhino grasshopper objects" src="assets/error.png">
 
 
+<span id="hashtag"> **#Reflections** </span> 
+
+Reflecting on my recent experiences, I recognize the challenges I faced in the programming world due to my limited knowledge of coding. While I successfully developed the first version of our code and ensured the system functioned properly, I encountered difficulties in understanding certain errors that arose. This situation highlighted the importance of foundational knowledge in coding, which would enable me to better comprehend what is happening within the code. As I saw data consistently appearing in the Serial Monitor, I felt a sense of accomplishment, but I also realized that gaining a deeper understanding of coding fundamentals would significantly enhance my confidence and ability to troubleshoot issues effectively in the future.
 
 
-<span id="hashtag"> **#Reflections** </span>  
 
-<span id="hashtag"> **#Speculations** </span>  
+<span id="hashtag"> **#Speculations** </span> 
 
-
+I hope that in the future, we will have programming systems that can automatically debug code without requiring manual intervention. Such systems could employ machine learning techniques to recognize common coding pitfalls and offer real-time suggestions or modifications. This would not only save significant time and reduce frustration for developers but also allow individuals with limited coding knowledge to engage more confidently with programming. 
 
 
 ---
