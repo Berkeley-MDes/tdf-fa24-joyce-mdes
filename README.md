@@ -347,36 +347,44 @@ I hope that in the future, we will have programming systems that can automatical
 
 # Week 8: 1018-1024 #
 
-During the weekend, we tried to use Google API and tried to show three data on the display.
+Over the weekend, we worked with the Google API to display three pieces of data.
 
 <img width="600" alt="Rhino grasshopper objects" src="assets/IMG_0758.JPG">
 
-after working for 1.5 hours, we solved the display problem.  
+After working for an hour and a half, we resolved the display issue.
 
 <img width="600" alt="Rhino grasshopper objects" src="assets/IMG_0762.JPG">
 
-and then, we adjusted the code to make the motion sensor activate the vibration. 
+Then, we adjusted the code to enable the motion sensor to activate the vibration.
 
 <img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-24 at 10.42.18.png">
 
-after seeking help from Anker, a cohort 4 student, we finally gained the accurate BPM to show people's heartbeat rates.  
+After seeking help from Anker, a student from Cohort 4, we finally obtained the accurate BPM to display people's heart rates.
 
 <img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-24 at 10.42.32.png">
 
-meanwhile, I sketched a 3D model to be a wearable device that is being worn by parents. This is my sketch.
+In the meantime, I created a 3D model of a wearable device designed for parents. Here is my sketch.
 
 <img width="600" alt="Rhino grasshopper objects" src="assets/IMG_0823.JPG">
 
-and I used Fusion 360 to build the 3D models.
+I used Fusion 360 to create the 3D models.
 
 <img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-24 at 10.52.43.png">
 
 <img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-24 at 10.51.56.png">
 
-the final version:
+the final outcome:
 
 <img width="600" alt="Rhino grasshopper objects" src="assets/IMG_0817.JPG">
 
+Quick Links for this project:
+- [proposal](https://docs.google.com/document/d/1KkkGOEXoQYGXXcZ097M4WQxfQmqmNXLVHORN__TeHjY/edit#heading=h.ans2vcsg6svj)
+- [code documentation](https://docs.google.com/document/d/1BAV2Vq1qa3Z2Ugzx5df0acKqu8BxbbpIgyMFDGo5TNc/edit?tab=t.0)
+- [video plan](https://docs.google.com/document/d/1BAV2Vq1qa3Z2Ugzx5df0acKqu8BxbbpIgyMFDGo5TNc/edit?tab=t.0#heading=h.wsqqxmsroitt)
+- [YouTube link](https://www.youtube.com/watch?v=dK12RXg2iB8)
+- [Figjam file](https://www.figma.com/board/fBudlrlz36H1bidGu9ZaSE/TDF-Team-CUDies?node-id=84-182&t=fkZRmkWHGblZ9Ts8-1)
+- [slide file](https://www.figma.com/slides/hTbe2s4EI5IbB8AxrE0fAS/slides-for-TDF-video?node-id=1-844&t=8BzvXLbSVb5ofdRS-1)
+- [final code files (receive side)](https://drive.google.com/file/d/1yEGMj-GoANcb_CthJY53qojlAnaefLXj/view?usp=sharing)
 
 
 <span id="hashtag"> **#Reflections** </span> 
