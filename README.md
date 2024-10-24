@@ -10,7 +10,8 @@ Welcome to this new GitHub repository!
 [week 4: 0920-0926](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main#week-4-0920-0926)  
 [week 5: 0927-1003](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-5-0927-1003)   
 [week 6: 1004-1010](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-6-1004-1010)  
-[week 7: 1011-1017](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-7-1011-1017)
+[week 7: 1011-1017](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-7-1011-1017)   
+[week 8: 1018-1024](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-7-1011-1017)
 
 ---
 
@@ -339,6 +340,22 @@ Reflecting on my recent experiences, I recognize the challenges I faced in the p
 <span id="hashtag"> **#Speculations** </span> 
 
 I hope that in the future, we will have programming systems that can automatically debug code without requiring manual intervention. Such systems could employ machine learning techniques to recognize common coding pitfalls and offer real-time suggestions or modifications. This would not only save significant time and reduce frustration for developers but also allow individuals with limited coding knowledge to engage more confidently with programming. 
+
+
+
+---
+
+# Week 8: 1018-1024 #
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/publish success.png">
+<img width="600" alt="Rhino grasshopper objects" src="assets/publish success.png">
+<img width="600" alt="Rhino grasshopper objects" src="assets/publish success.png">
+<img width="600" alt="Rhino grasshopper objects" src="assets/publish success.png">
+<img width="600" alt="Rhino grasshopper objects" src="assets/publish success.png">
+
+
+
+
 
 
 ---
