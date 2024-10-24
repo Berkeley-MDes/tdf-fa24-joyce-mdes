@@ -359,7 +359,7 @@ Then, we adjusted the code to enable the motion sensor to activate the vibration
 
 <img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-24 at 10.42.18.png">
 
-After seeking help from Anker, a student from Cohort 4, we finally obtained the accurate BPM to display people's heart rates.
+After seeking help from Ankur, a student from Cohort 4, we finally obtained the accurate BPM to display people's heart rates.
 
 <img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-24 at 10.42.32.png">
 
@@ -387,12 +387,17 @@ Quick Links for this project:
 - [final code files (receive side)](https://drive.google.com/file/d/1yEGMj-GoANcb_CthJY53qojlAnaefLXj/view?usp=sharing)
 
 
+
 <span id="hashtag"> **#Reflections** </span> 
+
+For this project, we faced challenges due to our limited knowledge of coding and microcontroller hardware. At one point, no matter what we tried, the code wouldn’t run. However, after restarting both our laptops and the Photon2, it finally worked. I learned that when we encounter a problem, it's helpful to reach out to someone with more experience in the field, as they might find a solution quickly and save us a lot of time.
+
+Although ChatGPT was very helpful with the coding for our project, given our lack of a computer science background, I still felt we spent a lot of time on it. Since I didn’t fully understand what each line of code meant, I couldn’t modify it myself. It was a significant challenge for me to align the code's outcomes with my expectations.
 
 
 <span id="hashtag"> **#Speculations** </span> 
 
-
+Given the variety of microcontrollers available today, standardizing their specifications could greatly enhance usability. If these devices could be designed to stack easily and maintain a consistent appearance, it would simplify the recording process and make them more approachable for users. A uniform design and clear visual guidance would significantly reduce barriers for beginners, making it easier for them to understand and work with microcontrollers without feeling overwhelmed by the chaos of differing formats.
 
 
 
