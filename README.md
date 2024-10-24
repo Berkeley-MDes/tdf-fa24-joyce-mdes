@@ -347,12 +347,42 @@ I hope that in the future, we will have programming systems that can automatical
 
 # Week 8: 1018-1024 #
 
-<img width="600" alt="Rhino grasshopper objects" src="assets/publish success.png">
-<img width="600" alt="Rhino grasshopper objects" src="assets/publish success.png">
-<img width="600" alt="Rhino grasshopper objects" src="assets/publish success.png">
-<img width="600" alt="Rhino grasshopper objects" src="assets/publish success.png">
-<img width="600" alt="Rhino grasshopper objects" src="assets/publish success.png">
+During the weekend, we tried to use Google API and tried to show three data on the display.
 
+<img width="600" alt="Rhino grasshopper objects" src="assets/IMG_0758.JPG">
+
+after working for 1.5 hours, we solved the display problem.  
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/IMG_0762.JPG">
+
+and then, we adjusted the code to make the motion sensor activate the vibration. 
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-24 at 10.42.18.png">
+
+after seeking help from Anker, a cohort 4 student, we finally gained the accurate BPM to show people's heartbeat rates.  
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-24 at 10.42.32.png">
+
+meanwhile, I sketched a 3D model to be a wearable device that is being worn by parents. This is my sketch.
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/IMG_0823.JPG">
+
+and I used Fusion 360 to build the 3D models.
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-24 at 10.52.43.png">
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-24 at 10.51.56.png">
+
+the final version:
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/IMG_0817.JPG">
+
+
+
+<span id="hashtag"> **#Reflections** </span> 
+
+
+<span id="hashtag"> **#Speculations** </span> 
 
 
 
