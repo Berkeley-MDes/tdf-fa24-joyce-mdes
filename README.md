@@ -419,6 +419,10 @@ This week, I learned how to use LLMs through ZeroWidth.
 
 ### Following the tutorial taught by Peter Binggeser
 
+ZeroWidth platform intro: ZeroWidth is a platform that aims to transform the design of Al from being a technical task to a collaborative one.
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/ZeroWidth_platform_intro.JPG">
+
 Started a new project
 
 <img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-28 at 18.09.02.png">
@@ -432,9 +436,30 @@ Added a knowledge file
 <img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-28 at 18.23.36.png">
 
 
-### Following the tutorial taught by TJ
+### Following the tutorial taught by TJ learned how to build your own LLM experiments
+
+- [tutorial link](https://share.descript.com/view/tJeu2pzTO4N)
+- Dem, Oh GPT Experiment 01 [demo interface](https://zerowidth.ai/c/demo/DVioPyQh916BJHnEOgQh/draft)
+- Dem, Oh GPT+INSTRUCT Experiment 01 [demo interface](https://zerowidth.ai/c/demo/xrrGgoNrysuRlEY9nPeS/draft)
+- Dem, Oh GPT+INSTRUCT+RAG Experiment 01 [demo interface](https://zerowidth.ai/c/demo/gNq7Jy33H2sh5QQ4B8xS/draft)
+- Dem, Oh GPT+INSTRUCT+RAG+VARIABLE Experiment 01 [demo interface](https://zerowidth.ai/c/demo/LdJLpnPCNAk1YAz76b1c/draft)
 
 
+Dem, Oh GPT Experiment 01
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/GPT Experiment 1-2.png">
+
+Dem, Oh GPT+INSTRUCT Experiment 01
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/GPT Experiment 2-1.png">
+
+Dem, Oh GPT+INSTRUCT+RAG Experiment 01
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Dem, Oh GPT +INSTRUCT+RAG Experiment 01-4.png">
+
+Dem, Oh GPT+INSTRUCT+RAG+VARIABLE Experiment 01
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/J_Dem, Oh GPT +INSTRUCT+RAG Experiment 01-6.png">
 
 
 
