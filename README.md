@@ -11,7 +11,10 @@ Welcome to this new GitHub repository!
 [week 5: 0927-1003](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-5-0927-1003)   
 [week 6: 1004-1010](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-6-1004-1010)  
 [week 7: 1011-1017](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-7-1011-1017)   
-[week 8: 1018-1024](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-8-1018-1024)
+[week 8: 1018-1024](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-8-1018-1024)  
+[week 9: 1025-1031](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-8-1018-1024)
+
+
 
 ---
 
@@ -399,6 +402,19 @@ Although ChatGPT was very helpful with the coding for our project, given our lac
 
 Given the variety of microcontrollers available today, standardizing their specifications could greatly enhance usability. If these devices could be designed to stack easily and maintain a consistent appearance, it would simplify the recording process and make them more approachable for users. A uniform design and clear visual guidance would significantly reduce barriers for beginners, making it easier for them to understand and work with microcontrollers without feeling overwhelmed by the chaos of differing formats.
 
+---
+
+# Week 9: 1025-1031 #
+
+This week, I learned how to use LLMs through ZeroWidth.
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-24 at 10.52.43.png">
+
+
+<span id="hashtag"> **#Reflections** </span> 
+
+
+<span id="hashtag"> **#Speculations** </span> 
 
 
 ---
