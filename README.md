@@ -463,12 +463,13 @@ Dem, Oh GPT+INSTRUCT+RAG+VARIABLE Experiment 01
 
 
 
-
 <span id="hashtag"> **#Reflections** </span> 
 
+The first time I saw the examples provided by TJ, I felt frustrated. I didn’t have any background in LLM, and I doubted my ability to create a project like the ones TJ showed us. At that point, I struggled to understand what semantic embedding is and how LLMs work. However, after following the tutorial step by step, I started to grasp how to use it and apply it because Zerowidth has an easy-to-understand interface. This experience taught me not to underestimate my abilities at first glance. Instead, I should give myself the chance to explore and learn.
 
 <span id="hashtag"> **#Speculations** </span> 
 
+I believe Zerowidth has extensive applications, as it easily connects inputs with an LLM to generate content through the output module. Beyond personal assistant functions, it could be used as a storyteller or a chatbot in various spaces to provide visitors with helpful information, such as restroom directions in a museum or map guidance in a library.
 
 [Back to table of contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#weekly-reports-table-of-contents) 
 
