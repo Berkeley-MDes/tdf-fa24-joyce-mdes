@@ -413,7 +413,30 @@ Given the variety of microcontrollers available today, standardizing their speci
 
 This week, I learned how to use LLMs through ZeroWidth.
 
-<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-24 at 10.52.43.png">
+### Exploreing some examples provided by TJ
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-28 at 17.23.05.png">
+
+### Following the tutorial taught by Peter Binggeser
+
+Started a new project
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-28 at 18.09.02.png">
+
+Opened demo page
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-28 at 18.12.52.png">
+
+Added a knowledge file
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-10-28 at 18.23.36.png">
+
+
+### Following the tutorial taught by TJ
+
+
+
+
 
 
 <span id="hashtag"> **#Reflections** </span> 
