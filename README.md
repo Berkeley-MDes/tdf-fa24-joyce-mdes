@@ -12,7 +12,7 @@ Welcome to this new GitHub repository!
 [week 6: 1004-1010](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-6-1004-1010)  
 [week 7: 1011-1017](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-7-1011-1017)   
 [week 8: 1018-1024](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-8-1018-1024)  
-[week 9: 1025-1031](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-8-1018-1024)
+[week 9: 1025-1031](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-9-1025-1031)
 
 
 
@@ -345,6 +345,7 @@ Reflecting on my recent experiences, I recognize the challenges I faced in the p
 I hope that in the future, we will have programming systems that can automatically debug code without requiring manual intervention. Such systems could employ machine learning techniques to recognize common coding pitfalls and offer real-time suggestions or modifications. This would not only save significant time and reduce frustration for developers but also allow individuals with limited coding knowledge to engage more confidently with programming. 
 
 
+[Back to table of contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#weekly-reports-table-of-contents) 
 
 ---
 
@@ -402,6 +403,10 @@ Although ChatGPT was very helpful with the coding for our project, given our lac
 
 Given the variety of microcontrollers available today, standardizing their specifications could greatly enhance usability. If these devices could be designed to stack easily and maintain a consistent appearance, it would simplify the recording process and make them more approachable for users. A uniform design and clear visual guidance would significantly reduce barriers for beginners, making it easier for them to understand and work with microcontrollers without feeling overwhelmed by the chaos of differing formats.
 
+
+
+[Back to table of contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#weekly-reports-table-of-contents) 
+
 ---
 
 # Week 9: 1025-1031 #
@@ -415,6 +420,9 @@ This week, I learned how to use LLMs through ZeroWidth.
 
 
 <span id="hashtag"> **#Speculations** </span> 
+
+
+[Back to table of contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#weekly-reports-table-of-contents) 
 
 
 ---
