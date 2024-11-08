@@ -13,6 +13,7 @@ Welcome to this new GitHub repository!
 [week 7: 1011-1017](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-7-1011-1017)   
 [week 8: 1018-1024](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-8-1018-1024)  
 [week 9: 1025-1031](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-9-1025-1031)
+[week 10: 1101-1107](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-9-1025-1031)
 
 
 
@@ -473,6 +474,23 @@ I believe Zerowidth has extensive applications, as it easily connects inputs wit
 
 [Back to table of contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#weekly-reports-table-of-contents) 
 
+
+---
+
+# Week 10: 1101-1107 #
+
+### Portrait exercise in the Studio Foundation class
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/ZeroWidth_platform_intro.JPG">
+
+
+<span id="hashtag"> **#Reflections** </span> 
+
+
+<span id="hashtag"> **#Speculations** </span> 
+
+
+[Back to table of contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#weekly-reports-table-of-contents) 
 
 ---
 
