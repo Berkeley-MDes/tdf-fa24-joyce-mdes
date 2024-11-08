@@ -479,15 +479,24 @@ I believe Zerowidth has extensive applications, as it easily connects inputs wit
 
 # Week 10: 1101-1107 #
 
-### Portrait exercise in the Studio Foundation class
+### Final prototype agent
 
-<img width="600" alt="Rhino grasshopper objects" src="assets/ZeroWidth_platform_intro.JPG">
+This week, I explored the knowledge base. I tried to use different types of data as the knowledge base.
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-11-08 at 00.27.09.png">
+
+In addition to exploring the final prototype agent, I also spent a lot of time this week working on creating videos.
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-11-07 at 08.38.56.png">
 
 
 <span id="hashtag"> **#Reflections** </span> 
 
+I initially didn't have many thoughts about this tool, but after seeing my classmates' results, I feel that they have come up with some great ideas on how to use Zerowidth. It also sparked some interesting ideas in my own mind, and I hope I can actually bring them to life.
 
 <span id="hashtag"> **#Speculations** </span> 
+
+With the tool "Zerowidth," the application of LLMs will become extremely widespread. In the past, only those with extensive background knowledge could effectively use and apply LLMs. However, with this tool, it becomes much easier to turn an LLM into a personal productivity tool, even for simulating many innovative ideas.
 
 
 [Back to table of contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#weekly-reports-table-of-contents) 
