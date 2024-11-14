@@ -13,7 +13,8 @@ Welcome to this new GitHub repository!
 [week 7: 1011-1017](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-7-1011-1017)   
 [week 8: 1018-1024](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-8-1018-1024)  
 [week 9: 1025-1031](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-9-1025-1031)   
-[week 10: 1101-1107](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-10-1101-1107)
+[week 10: 1101-1107](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-10-1101-1107)  
+[week 11: 1108-1114](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-10-1101-1107)
 
 
 
@@ -497,6 +498,35 @@ I initially didn't have many thoughts about this tool, but after seeing my class
 <span id="hashtag"> **#Speculations** </span> 
 
 With the tool "Zerowidth," the application of LLMs will become extremely widespread. In the past, only those with extensive background knowledge could effectively use and apply LLMs. However, with this tool, it becomes much easier to turn an LLM into a personal productivity tool, even for simulating many innovative ideas.
+
+
+[Back to table of contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#weekly-reports-table-of-contents) 
+
+
+---
+
+# Week 11: 1108-1114 #
+
+### Project 3 Report
+
+This week, I’ve been working on the report, and I forgot to take a screenshot of the response from the fourth and final agent, so I lost the original answer. I then re-entered the questions, took a screenshot of the new response, and uploaded it into my report. I hope this doesn’t cause any confusion.
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-11-14 at 14.21.33.png">
+
+I inputted 5 assigned questions and 3 additional questions to test the 5 agents, and I believe their responses were logical because I could identify some patterns between them. When the agents didn’t have a knowledge base related to my project, the first and second agents wouldn’t answer questions about my project. The third agent, however, would use experience from other projects to answer the questions, though sometimes the responses were quite odd. The fourth and final agent, having access to a relevant knowledge base, was able to answer the questions based on my specific project experience.
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-11-14 at 14.14.55.png">
+
+Finally, I finished the report, and it’s 25 pages long. It’s crazy!
+
+
+<span id="hashtag"> **#Reflections** </span> 
+
+Although there is a very detailed document explaining the requirements for the assignment, it still took me some time to understand exactly what I should include in my report. I’m also grateful to my classmates for asking questions about the assignment requirements in Slack, as I had the same confusion. Additionally, when I was almost done with the assignment, I saw the requirements on bCourse and ended up spending an extra two hours making my work better align with those expectations. Next time, I hope to confirm the requirements earlier to ensure I fully understand both the PDF document outlining the assignment and the bCourse requirements. I’m also thankful that the deadline for this report was extended to Thursday, as it gave me more time to refine my work.
+
+<span id="hashtag"> **#Speculations** </span> 
+
+When testing the agents, I felt that this technology has infinite possibilities. If I could get more examples of its applications, I think it would help expand my imagination. I believe this tool could help me remember all the knowledge I’ve learned in life. I would just need to input the content I’ve learned in class into the knowledge base, and then I could have an infinitely large repository to quickly review my recent learning through a simple question-and-answer process.
 
 
 [Back to table of contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#weekly-reports-table-of-contents) 
