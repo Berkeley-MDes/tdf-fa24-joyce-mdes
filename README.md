@@ -563,8 +563,21 @@ and then, I created this system to get the full picture of our project.
 
 <span id="hashtag"> **#Reflections** </span> 
 
+This week, I’ve been thinking about how to consolidate everything I’ve learned this semester, but I’ve found it quite challenging. The main reason is my insufficient understanding of technical concepts. For example, I always thought LLMs could work with microcontrollers, but I’ve heard that’s not the case.  
+
+Additionally, the modeling techniques I learned in other courses aren’t actually very useful. They don’t help people who are unfamiliar with 3D software learn how to use it, nor do they teach skills for creating models without relying on 3D modeling software.  
+
+I believe that to enable collaboration among people from such diverse fields, the most important thing is to help everyone understand each other’s limitations. Only then can we effectively divide tasks and work together.
+
 
 <span id="hashtag"> **#Speculations** </span> 
+
+Building on this topic, how can we effectively convey our abilities in the shortest possible time? Some skills are binary—either you have them or you don’t—while others range from “basic understanding” to “expert-level proficiency.” Aligning team members’ understanding of each other’s skills is crucial. If there were a tool to achieve this in the future, it would be incredibly helpful.  
+
+The closest option we have now might be LinkedIn, but it’s clearly insufficient. For people from unrelated fields, it’s difficult to immediately grasp the nature of a skill through “words” or “tags.” It doesn’t provide a clear picture of what the ability actually entails.  
+
+This makes me wonder if there’s a better way to visually or interactively communicate skill levels and capabilities across disciplines. What do you think?
+
 
 
 [Back to table of contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#weekly-reports-table-of-contents) 
@@ -572,6 +585,8 @@ and then, I created this system to get the full picture of our project.
 ---
 
 # Week 13: 1122-1128 #
+
+
 
 ### Final project
 
