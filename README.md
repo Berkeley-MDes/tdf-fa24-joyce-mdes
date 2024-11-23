@@ -15,8 +15,8 @@ Welcome to this new GitHub repository!
 [week 9: 1025-1031](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-9-1025-1031)   
 [week 10: 1101-1107](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-10-1101-1107)  
 [week 11: 1108-1114](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-11-1108-1114)  
-[week 12: 1115-1121](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-11-1108-1114)  
-[week 13: 1122-1128](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-11-1108-1114)
+[week 12: 1115-1121](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-12-1115-1121)  
+[week 13: 1122-1128](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-13-1122-1128)
 
 
 
@@ -537,7 +537,7 @@ When testing the agents, I felt that this technology has infinite possibilities.
 
 ---
 
-# week 12: 1115-1121 #
+# Week 12: 1115-1121 #
 
 ### Final project proposal
 
@@ -553,7 +553,7 @@ When testing the agents, I felt that this technology has infinite possibilities.
 
 ---
 
-# week 13: 1122-1128 #
+# Week 13: 1122-1128 #
 
 ### Final project
 
