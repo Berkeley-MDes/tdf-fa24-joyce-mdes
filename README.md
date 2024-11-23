@@ -540,6 +540,24 @@ When testing the agents, I felt that this technology has infinite possibilities.
 # Week 12: 1115-1121 #
 
 ### Final project proposal
+My team name is R2J.
+This project focuses on the intersection of in-car interaction design, automotive technology, and Internet of Things (IoT) to enhance the passenger experience during road trips. A key feature is integrating karaoke functionality, offering dynamic lyric displays and enabling interactive controls such as hand gesture detection for switching songs or adjusting volume. The system can also utilize two paired devices, one for the driver and one for rear-seat passengers, ensuring an inclusive and engaging experience for everyone in the car.
+
+I used mid-journey to generate an image but it didn't meet my expectation. 
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/midjourney-1.png">
+
+Then, I sketched to communicate with my team members.
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/IMG_1443.jpg">  
+
+and then, I created this system to get the full picture of our project.
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Draft System Architecture.jpg">
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/system.jpg">
+
+
 
 
 
