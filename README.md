@@ -14,7 +14,11 @@ Welcome to this new GitHub repository!
 [week 8: 1018-1024](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-8-1018-1024)  
 [week 9: 1025-1031](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-9-1025-1031)   
 [week 10: 1101-1107](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-10-1101-1107)  
-[week 11: 1108-1114](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-11-1108-1114)
+[week 11: 1108-1114](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-11-1108-1114)  
+[week 12: 1115-1121](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-11-1108-1114)  
+[week 13: 1122-1128](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-11-1108-1114)
+
+
 
 
 
@@ -530,6 +534,40 @@ When testing the agents, I felt that this technology has infinite possibilities.
 
 
 [Back to table of contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#weekly-reports-table-of-contents) 
+
+---
+
+# week 12: 1115-1121 #
+
+### Final project proposal
+
+
+
+<span id="hashtag"> **#Reflections** </span> 
+
+
+<span id="hashtag"> **#Speculations** </span> 
+
+
+[Back to table of contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#weekly-reports-table-of-contents) 
+
+---
+
+# week 13: 1122-1128 #
+
+### Final project
+
+
+
+<span id="hashtag"> **#Reflections** </span> 
+
+
+<span id="hashtag"> **#Speculations** </span> 
+
+
+
+
+
 
 ---
 
