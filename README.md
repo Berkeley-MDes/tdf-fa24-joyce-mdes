@@ -609,18 +609,15 @@ I successfully managed to run an app on my iPhone but encountered a roadblock wh
 
 Despite trying numerous methods, I couldn’t resolve the issue. Ultimately, I decided to pause and explore alternative solutions.
 
-
-### Final project
-
-
-
 <span id="hashtag"> **#Reflections** </span> 
 
+Since I have no prior experience in programming, attempting to develop an app within just a few days was incredibly challenging. Although I took the first step and gave it a try, I encountered numerous issues and challenges that I had no way of solving. I had to rely heavily on ChatGPT, but often struggled to clearly articulate the problems I faced. Even when following ChatGPT's instructions, more issues would arise.
+
+Additionally, I was surprised to discover that something seemingly simple, like a Bluetooth connection, involves so many technical complexities and limitations. As a result, it was impossible to get it working successfully within such a short timeframe.
 
 <span id="hashtag"> **#Speculations** </span> 
 
-
-
+If, in the future, there could be an AI capable of helping me develop the app I want within a short period, it would be truly amazing. However, it might also lead to many subsequent issues, such as legal disputes over ownership, as well as concerns about application security and privacy. These could potentially result in serious consequences.
 
 [Back to table of contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#weekly-reports-table-of-contents) 
 
