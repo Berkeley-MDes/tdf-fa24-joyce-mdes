@@ -17,7 +17,7 @@ Welcome to this new GitHub repository!
 [week 11: 1108-1114](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-11-1108-1114)  
 [week 12: 1115-1121](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-12-1115-1121)  
 [week 13: 1122-1128](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-13-1122-1128)   
-[week 14: 1129-1205](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-13-1122-1128)
+[week 14: 1129-1205](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-14-1129-1205)
 
 
 
@@ -586,6 +586,28 @@ This makes me wonder if there’s a better way to visually or interactively comm
 
 # Week 13: 1122-1128 #
 
+This week, our team focused on using the Photon 2 to control a music player.
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/FullSizeRender.JPG">
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/IMG_1458.JPG">
+
+To begin, I consulted ChatGPT about Bluetooth earphone technology and learned that I needed a suitable Bluetooth module, hardware compatible with the Bluetooth protocol, and a music-control API. Since the Particle Photon 2 supports both Wi-Fi and BLE, it seemed like a viable option. I aimed to connect the Photon 2 to my iPhone via Bluetooth and sought ChatGPT's help to generate the required code. However, ChatGPT informed me that controlling music on an iPhone through Photon 2 was restricted by specific agreement limitations, requiring the development of a dedicated iPhone app.
+
+As I had no prior experience with app development, I asked ChatGPT for step-by-step guidance.
+
+### Developing an App with Xcode
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-11-23 at 16.22.34.png">
+
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/FullSizeRender 3.JPG">
+
+I successfully managed to run an app on my iPhone but encountered a roadblock when trying to add a Bluetooth permission description in the Info.plist file.
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-11-23 at 17.47.44.png">
+
+Despite trying numerous methods, I couldn’t resolve the issue. Ultimately, I decided to pause and explore alternative solutions.
 
 
 ### Final project
