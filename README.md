@@ -625,14 +625,15 @@ If, in the future, there could be an AI capable of helping me develop the app I 
 
 # Week 14: 1129-1205 #
 
-This week, our team still focused on using the Photon 2 to control a music player.
+This week, our team continued focusing on using the Photon 2 to control a music player.
 
-I found this website. It used Photon to control Spotify through Mopidy. I thought that I could use its code from Github.
+While researching, I came across a website that used Photon to control Spotify via Mopidy. I thought I could leverage the code available on its GitHub repository.
 
-[Mopidy Music Server Remote Control](https://bikerglen.com/blog/music-server-remote-control/) 
+[Mopidy Music Server Remote Control](https://bikerglen.com/blog/music-server-remote-control/)      
+
 [Mopidy Music Server Remote Control_code](https://github.com/bikerglen/music-server-remotes/tree/master) 
 
-But things didn't go well as I imagined. I installed all plugins and software. Then, I tried to run the code in the VS code app, but it didn't work.
+Despite following the instructions, things didn’t go as smoothly as I had hoped. I installed all the necessary plugins and software and attempted to run the code in the VS Code app, but it didn’t work as expected.
 
 <img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-12-03 at 16.20.07.png">   
 
@@ -643,35 +644,38 @@ But things didn't go well as I imagined. I installed all plugins and software. T
 <img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-12-05 at 16.33.49.png">
 
 
-Then, on Thursday night, we finally figured it out!!!
+### Final outcome!!
+
+However, on Thursday night, we finally figured it out!
 
 <img width="600" alt="Rhino grasshopper objects" src="assets/IMG_2032.JPG">
 
-We also successfully ran the code for Neopixel and it flashed LED based on the music frequency.
+Additionally, we successfully ran the code for Neopixel, which allowed the LEDs to flash in sync with the music’s frequency.
 
 <img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-12-06 at 12.51.49.png">
 
-We also successfully ran the code for motion detectors and they are for switching songs based on the gesture.
+We also implemented the code for motion detectors, enabling us to switch songs through gestures.
 
 <img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-12-06 at 12.58.12.png">
 
-This image includes all microcontrollers and sensors used in our project.
+This image showcases all the microcontrollers and sensors used in our project.
 
 <img width="600" alt="Rhino grasshopper objects" src="assets/IMG_2039.JPG">
 
-Then, I created a 3D model for our microcontrollers.
+Finally, I created a 3D model to represent our microcontrollers.
 
 <img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-12-05 at 21.49.40.png">
 
 
-### Final project
-
-
-
 <span id="hashtag"> **#Reflections** </span> 
 
+I’m truly moved that we managed to create a working function to pause music. For our team, with no programming background, this was an incredibly challenging task. We tried various methods repeatedly and, in the end, successfully connected to Spotify’s API and used the Photon 2 to pause Spotify’s currently playing music.
+
+I’m deeply grateful to my team for working together and conducting so many experiments to make this happen!
 
 <span id="hashtag"> **#Speculations** </span> 
+
+After successfully implementing the API connection function, I hope that this process can become simpler in the future. This would allow creators to develop various features more freely, making the world a more creative and innovative place.
 
 
 [Back to table of contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#weekly-reports-table-of-contents) 
