@@ -625,7 +625,43 @@ If, in the future, there could be an AI capable of helping me develop the app I 
 
 # Week 14: 1129-1205 #
 
+This week, our team still focused on using the Photon 2 to control a music player.
 
+I found this website. It used Photon to control Spotify through Mopidy. I thought that I could use its code from Github.
+
+[Mopidy Music Server Remote Control](https://bikerglen.com/blog/music-server-remote-control/) 
+[Mopidy Music Server Remote Control_code](https://github.com/bikerglen/music-server-remotes/tree/master) 
+
+But things didn't go well as I imagined. I installed all plugins and software. Then, I tried to run the code in the VS code app, but it didn't work.
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-12-03 at 16.20.07.png">   
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-12-03 at 16.21.07.png">
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-12-03 at 16.27.12.png">
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-12-05 at 16.33.49.png">
+
+
+Then, on Thursday night, we finally figured it out!!!
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/IMG_2032.JPG">
+
+We also successfully ran the code for Neopixel and it flashed LED based on the music frequency.
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-12-06 at 12.51.49.png">
+
+We also successfully ran the code for motion detectors and they are for switching songs based on the gesture.
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-12-06 at 12.58.12.png">
+
+This image includes all microcontrollers and sensors used in our project.
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/IMG_2039.JPG">
+
+Then, I created a 3D model for our microcontrollers.
+
+<img width="600" alt="Rhino grasshopper objects" src="assets/Screenshot 2024-12-05 at 21.49.40.png">
 
 
 ### Final project
