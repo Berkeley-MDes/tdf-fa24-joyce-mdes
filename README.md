@@ -16,8 +16,8 @@ Welcome to this new GitHub repository!
 [week 10: 1101-1107](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-10-1101-1107)  
 [week 11: 1108-1114](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-11-1108-1114)  
 [week 12: 1115-1121](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-12-1115-1121)  
-[week 13: 1122-1128](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-13-1122-1128)
-
+[week 13: 1122-1128](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-13-1122-1128)   
+[week 14: 1129-1205](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#week-13-1122-1128)
 
 
 
@@ -600,6 +600,26 @@ This makes me wonder if there’s a better way to visually or interactively comm
 
 
 
+[Back to table of contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#weekly-reports-table-of-contents) 
+
+---
+
+# Week 14: 1129-1205 #
+
+
+
+
+### Final project
+
+
+
+<span id="hashtag"> **#Reflections** </span> 
+
+
+<span id="hashtag"> **#Speculations** </span> 
+
+
+[Back to table of contents](https://github.com/Berkeley-MDes/tdf-fa24-joyce-mdes/tree/main?tab=readme-ov-file#weekly-reports-table-of-contents) 
 
 
 ---
